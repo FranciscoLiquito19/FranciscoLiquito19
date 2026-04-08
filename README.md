@@ -35,7 +35,6 @@ I'm working toward **Data Engineering** — designing robust pipelines that star
 
 | Project | Description | Stack |
 |---|---|---|
-| [ISEP-SISTCA](https://github.com/FranciscoLiquito19/ISEP-SISTCA) | Electromechanical systems lab work | C |
 | [Projeto-DEAPC](https://github.com/FranciscoLiquito19/Projeto-DEAPC) | Full-stack web information management app | JS · PHP · SQL · HTML |
 
 ---
