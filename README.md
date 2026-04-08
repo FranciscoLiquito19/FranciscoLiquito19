@@ -36,6 +36,7 @@ I'm working toward **Data Engineering** — designing robust pipelines that star
 | Project | Description | Stack |
 |---|---|---|
 | [Projeto-DEAPC](https://github.com/FranciscoLiquito19/Projeto-DEAPC) | Full-stack web information management app | JS · PHP · SQL · HTML |
+| [Domino](https://github.com/FranciscoLiquito19/Domino) | Programação de 1º ano | C |
 
 ---
 
