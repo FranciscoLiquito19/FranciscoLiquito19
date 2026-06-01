@@ -1,4 +1,4 @@
-# Hey, I'm Francisco 👋
+# Hey, I'm Francisco Liquito 👋
 
 Final-year **Electrical & Computer Engineering** student at ISEP, currently on an R&D internship building Computer Vision systems for IoT hardware.
 
