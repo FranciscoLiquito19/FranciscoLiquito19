@@ -1,6 +1,6 @@
 # Hey, I'm Francisco 👋
 
-Final-year **Electrical & Computer Engineering** student at ISEP, currently on an R&D internship building Computer Vision systems for IoT hardware. My work sits at the intersection of low-level firmware and high-level data pipelines — from edge sensors all the way to storage.
+Final-year **Electrical & Computer Engineering** student at ISEP, currently on an R&D internship building Computer Vision systems for IoT hardware.
 
 Previously at **Maribor, Slovenia** 🇸🇮 on an Erasmus exchange.
 
@@ -13,7 +13,6 @@ Previously at **Maribor, Slovenia** 🇸🇮 on an Erasmus exchange.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tech & Tools**
@@ -27,7 +26,7 @@ Previously at **Maribor, Slovenia** 🇸🇮 on an Erasmus exchange.
 
 ## 🚀 What I'm building toward
 
-I'm working toward **Data Engineering** — designing robust pipelines that start at physical sensors and scale to large-scale analysis infrastructure. The combination of embedded systems background + software skills is the foundation I'm building on.
+I'm working toward **Data Engineering** designing robust pipelines that start at physical sensors and scale to large-scale analysis infrastructure. The combination of embedded systems background + software skills is the foundation I'm building on.
 
 ---
 
