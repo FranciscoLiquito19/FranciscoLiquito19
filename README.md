@@ -1,8 +1,6 @@
 # Hey, I'm Francisco Liquito 👋
 
-Final-year **Electrical & Computer Engineering** student at ISEP, currently on an R&D internship building Computer Vision systems for IoT hardware.
-
-Previously at **Maribor, Slovenia** 🇸🇮 on an Erasmus exchange.
+Embedded FW/SW Engineer MSc Elecrical and Computer Engineeirng.
 
 ---
 
